@@ -1,0 +1,15 @@
+*.iws
+.idea
+*.iml
+*Db.properties
+*Db.script
+.settings
+.project
+.classpath
+.DS_Store
+eclipse
+stacktrace.log
+target
+/plugins
+/web-app/plugins
+/web-app/WEB-INF/classes
